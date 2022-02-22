@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7BURSPDatabase%7D/static/css/main.e6c13ad2.css",
+    "main.js": "/%7BURSPDatabase%7D/static/js/main.07f31421.js",
+    "static/js/787.28cb0dcd.chunk.js": "/%7BURSPDatabase%7D/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/%7BURSPDatabase%7D/index.html",
+    "main.e6c13ad2.css.map": "/%7BURSPDatabase%7D/static/css/main.e6c13ad2.css.map",
+    "main.07f31421.js.map": "/%7BURSPDatabase%7D/static/js/main.07f31421.js.map",
+    "787.28cb0dcd.chunk.js.map": "/%7BURSPDatabase%7D/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.07f31421.js"
+  ]
+}
