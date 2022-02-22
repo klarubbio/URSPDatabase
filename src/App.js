@@ -4,7 +4,7 @@ import Table from "./components/Table";
 import FilterTable from "./components/FilterTable";
 
 
-export default function App() {
+export default function MyApp() {
   const columns = React.useMemo(
     () => [
       {
